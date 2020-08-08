@@ -198,7 +198,7 @@ async def amireallyalive(alive):
              f"`Bot Version🤘: Remix {BOT_VER}` \n"
              f"==================================== \n"
              f"User 👨‍🚀: {DEFAULTUSER} \n"
-             f"Maintainer 🏄‍♂️: @heyworld \n"
+             f"Bot Owner 🏄‍♂️: @shakil29 \n"
              f"====================================\n")
     await bot.send_file(alive.chat_id, logo, caption=output)
     await alive.delete()
